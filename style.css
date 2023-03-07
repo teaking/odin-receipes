@@ -1,0 +1,16 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+h1 {
+  color: hsl(0, 4%, 40%);
+}
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: hsl(0, 78%, 69%);
+}
